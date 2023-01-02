@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_names">
+        <item>Darshak</item>
+        <item>Vraj</item>
+        <item>Parth</item>
+        <item>Rajat</item>
+        <item>Vats</item>
+        <item>Shahil</item>
+        <item>Smit</item>
+        <item>Khilan</item>
+        <item>Balram</item>
+        <item>Komolika</item>
+    </string-array>
+
+    <string-array name="student_images">
+        <item>@drawable/darshak</item>
+        <item>@drawable/vraj</item>
+        <item>@drawable/download</item>
+        <item>@drawable/rajat</item>
+        <item>@drawable/vats</item>
+        <item>@drawable/shahil</item>
+        <item>@drawable/download</item>
+        <item>@drawable/download</item>
+        <item>@drawable/balram</item>
+        <item>@drawable/download</item>
+    </string-array>
+
+    <string-array name="student_roll_numbers">
+        <item>12</item>
+        <item>05</item>
+        <item>07</item>
+        <item>11</item>
+        <item>20</item>
+        <item>30</item>
+        <item>17</item>
+        <item>10</item>
+        <item>24</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="student_ages">
+        <item>19</item>
+        <item>21</item>
+        <item>21</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="student_mobile_numbers">
+        <item>123-456-7890</item>
+        <item>234-567-8901</item>
+        <item>345-678-9012</item>
+        <item>123-456-7890</item>
+        <item>234-567-8901</item>
+        <item>345-678-9012</item>
+        <item>123-456-7890</item>
+        <item>234-567-8901</item>
+        <item>345-678-9012</item>
+        <item>123-456-7890</item>
+    </string-array>
+
+    <string-array name="student_email_addresses">
+        <item>200305126012@paruluniversity.ac.in</item>
+        <item>200305126005@paruluniversity.ac.in</item>
+        <item>200305126007@paruluniversity.ac.in</item>
+        <item>200305126011@paruluniversity.ac.in</item>
+        <item>200305126020@paruluniversity.ac.in</item>
+        <item>200305126030@paruluniversity.ac.in</item>
+        <item>200305126017@paruluniversity.ac.in</item>
+        <item>200305126010@paruluniversity.ac.in</item>
+        <item>200305126024@paruluniversity.ac.in</item>
+        <item>200305126014@paruluniversity.ac.in</item>
+    </string-array>
+
+    <string-array name="student_class_names">
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+        <item>6C1</item>
+    </string-array>
+
+    <string-array name="student_cities">
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+        <item>Vadodara</item>
+    </string-array>
+</resources>

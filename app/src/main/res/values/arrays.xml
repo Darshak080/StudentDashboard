@@ -16,34 +16,34 @@
     <string-array name="student_images">
         <item>@drawable/darshak</item>
         <item>@drawable/vraj</item>
-        <item>@drawable/download</item>
+        <item>@drawable/parth</item>
         <item>@drawable/rajat</item>
         <item>@drawable/vats</item>
         <item>@drawable/shahil</item>
-        <item>@drawable/download</item>
-        <item>@drawable/download</item>
+        <item>@drawable/smit</item>
+        <item>@drawable/khilan</item>
         <item>@drawable/balram</item>
-        <item>@drawable/download</item>
+        <item>@drawable/komolika</item>
     </string-array>
 
     <string-array name="student_roll_numbers">
-        <item>12</item>
-        <item>05</item>
-        <item>07</item>
-        <item>11</item>
-        <item>20</item>
-        <item>30</item>
-        <item>17</item>
-        <item>10</item>
-        <item>24</item>
-        <item>14</item>
+        <item>200305126012</item>
+        <item>200305126005</item>
+        <item>200305126007</item>
+        <item>200305126011</item>
+        <item>200305126020</item>
+        <item>200305126030</item>
+        <item>200305126017</item>
+        <item>200305126010</item>
+        <item>200305126024</item>
+        <item>200305126014</item>
     </string-array>
 
     <string-array name="student_ages">
         <item>19</item>
         <item>21</item>
         <item>21</item>
-        <item>20</item>
+        <item>21</item>
         <item>20</item>
         <item>20</item>
         <item>20</item>

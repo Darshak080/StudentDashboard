@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">StudentDashboard</string>
+    <string name="profile_pic">profile_pic</string>
+    <string name="name">Name</string>
+    <string name="roll_number">Roll Number</string>
 </resources>
